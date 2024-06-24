@@ -1,0 +1,5 @@
+{
+  "_comment": "This JSON file is used for demonstrating advanced features of Jackson ObjectMapper.",
+  "color": "blue",
+  "type": "toyota"
+}

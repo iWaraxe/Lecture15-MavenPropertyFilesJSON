@@ -1,0 +1,11 @@
+{
+  "userId": 777,
+  "firstName": "John",
+  "lastName": "Doe",
+  "address": {
+    "country": "USA",
+    "city": "New York"
+  },
+  "phone": "123-456-7890",
+  "name": "John Doe"
+}

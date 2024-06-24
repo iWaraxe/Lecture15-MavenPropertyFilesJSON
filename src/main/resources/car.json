@@ -1,0 +1,5 @@
+{
+  "_comment": "This JSON file is generated for demonstrating JSON writing with Jackson ObjectMapper.",
+  "color": "yellow",
+  "type": "renault"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!-- File: app.xml -->
+<!-- Belongs to: Ex06PropertiesFromXML -->
+
+<properties>
+    <comment>This XML file is used for demonstrating loading properties from an XML file.</comment>
+    <entry key="host">192.168.1.1</entry>
+    <entry key="port">8080</entry>
+</properties>
